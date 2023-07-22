@@ -5,3 +5,4 @@ Task:
 keyStore: city@2023
 
 cd Documents/Misc/Practice/CityContractor 
+git remote add origin git@github.com:kuldeepworkid/CityContractor.git
