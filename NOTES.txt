@@ -1,0 +1,7 @@
+Task:
+1. Configure Navigation
+2. Configure react-redux-toolkit
+3. Configure Project structure
+keyStore: city@2023
+
+cd Documents/Misc/Practice/CityContractor 

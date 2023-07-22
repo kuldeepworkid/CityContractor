@@ -1,0 +1,23 @@
+const icons = {
+  backArrow: require('../assets/icons/arrow-right.png'),
+  truck: require('../assets/icons/dumper.png'),
+  rightArrow: require('../assets/icons/rightArrow.png'),
+  frame: require('../assets/icons/frame.png'),
+  group: require('../assets/icons/group.png'),
+  jcb: require('../assets/icons/jcb.png'),
+  pocklane: require('../assets/icons/pocklane.png'),
+  bell: require('../assets/icons/bell.png'),
+  calender: require('../assets/icons/calender.png'),
+  user: require('../assets/icons/user.png'),
+  home: require('../assets/icons/home.png'),
+  arrowRightWhite: require('../assets/icons/arrow-right-white.png'),
+  call: require('../assets/icons/call.png'),
+  email: require('../assets/icons/email.png'),
+  downArrow: require('../assets/icons/down-arrow.png'),
+  line: require('../assets/icons/line.png'),
+  dot: require('../assets/icons/dot.png'),
+  location: require('../assets/icons/location.png'),
+  search: require('../assets/icons/search.png'),
+  rectangle: require('../assets/icons/rectangle.png'),
+};
+export default icons;
